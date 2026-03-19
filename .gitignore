@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Logs and audio
+mock_auth.log
+alert.mp3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
