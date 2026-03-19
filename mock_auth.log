@@ -1,0 +1,5 @@
+Mar 19 20:23:10 server sshd[12034]: Failed password for invalid user admin from 192.168.1.55 port 45123 ssh2
+Mar 19 20:23:11 server sshd[12035]: Failed password for root from 192.168.1.55 port 45124 ssh2
+Mar 19 20:23:12 server sshd[12036]: Failed password for root from 192.168.1.55 port 45125 ssh2
+Mar 19 20:23:13 server sshd[12037]: Failed password for root from 192.168.1.55 port 45126 ssh2
+Mar 19 20:23:14 server sshd[12038]: Failed password for root from 192.168.1.55 port 45127 ssh2
